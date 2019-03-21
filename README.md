@@ -1,6 +1,4 @@
 # hello-world
 
- feature
-interesting
+interesting!
 I'm playing this.
- master
